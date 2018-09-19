@@ -11,3 +11,5 @@
 ## Preview: 
 
 ![App](/screenshots/app-preview.png)
+
+![App](/screenshots/app-2dice-preview.png)
